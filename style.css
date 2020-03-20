@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(firebrick, purple);
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    display: block;
+    width: 90vw;
+    margin-left: 5vw;
+}
+
